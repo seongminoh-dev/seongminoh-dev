@@ -1,16 +1,18 @@
-## Hi there 👋
+# 안녕하세요
 
-<!--
-**seongminoh-dev/seongminoh-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Java와 Spring 기반의 백엔드 개발을 중심으로 학습하고 있으며,
+문제를 구조적으로 분석하고 지속적으로 개선하는 개발자를 지향합니다.
 
-Here are some ideas to get you started:
+## Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Java
+- Spring Boot
+- JPA
+- Git / GitHub
+
+## Currently Learning
+
+- Java 코딩테스트
+- Spring Boot
+- JPA
+- CS 기초
